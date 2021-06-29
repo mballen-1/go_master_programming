@@ -92,6 +92,12 @@ func main() {
 // 5. -> https://play.golang.org/p/Z8jeJNyLvU5
 // 6. -> https://play.golang.org/p/7dfhtsTMSI4
 
+// Section 9 : Arrays
+// 1. -> https://play.golang.org/p/qlwg3ReXnci
+// 2. -> https://play.golang.org/p/MFExsquf7Hi
+// 3. -> https://play.golang.org/p/Yx7riyqn5sA
 
-
-
+// Slices
+// 1. -> https://play.golang.org/p/jGJZwMpGhfv
+// 2. -> https://play.golang.org/p/VlsrMa28kNp
+// 3. -> https://play.golang.org/p/hFPTRu7qRTv
