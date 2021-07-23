@@ -1,0 +1,27 @@
+1. -> https://play.golang.org/p/KXRHre4I-4P
+2. -> https://play.golang.org/p/GypKeKCKzPf
+
+Coding Exercise #3
+
+Consider the following map declaration: m := map[int]bool{"1": true, 2: false, 3: false}
+package main
+
+1. The above map declaration has an error. Solve the error!
+
+2. Delete a key:value pair from the map.
+
+3. Iterate over the map and print out each key and value.
+
+ANS/
+
+import "fmt"
+
+func main() {
+	m := map[int]bool{1: true, 2: false, 3: false}
+	_ = m
+	delete(m, 1)
+
+	for k, v := range m {
+		fmt.Printf("k = %v, v = %v\n", k, v)
+	}
+}
