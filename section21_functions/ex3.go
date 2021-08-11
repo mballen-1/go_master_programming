@@ -25,6 +25,6 @@ func myFunc(s string) int{
 }
 
 
-func main() {
+func main3() {
 	fmt.Println(myFunc("5"))
 }
